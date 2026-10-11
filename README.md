@@ -57,6 +57,3 @@ By leveraging native Android `AccessibilityService` event listeners, this backgr
 1. Clone the repository:
    ```bash
    git clone [https://github.com/armanchakraborty/Android-Ad-Skipper.git](https://github.com/armanchakraborty/Android-Ad-Skipper.git)
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/armanchakraborty/Android-Ad-Skipper.git](https://github.com/armanchakraborty/Android-Ad-Skipper.git)
